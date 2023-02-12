@@ -4,7 +4,7 @@
 
 <div align=center>
   <h3> 🌱 Studying 🌱 </h3>
-  <p> Data Engineering, Back-end, AI </p>
+  <p> <b>Data Engineering, Back-end, AI</b> </p>
 </div>
 
 <div align=center>
