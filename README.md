@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter IDEA&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
   </p>
 </div>
 
